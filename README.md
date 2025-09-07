@@ -31,3 +31,9 @@
 
    ```bash
    git clone https://github.com/rudraksh029/resume-review-app.git
+![SS01](assests/demo_screenshots/SS01.png)
+![SS02](assests/demo_screenshots/SS02.png)
+![SS03](assests/demo_screenshots/SS03.png)
+![SS04](assests/demo_screenshots/SS04.png)
+![SS05](assests/demo_screenshots/SS05.png)
+
